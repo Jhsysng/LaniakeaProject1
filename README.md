@@ -24,5 +24,4 @@ Additonal features in the future
 -delete extension&distinguishing the extension by file signature code ->planning..
 -add DES3 encrypt mode ->planning..
 -add CTR_MODE ->planning..
-----
 -input iv text

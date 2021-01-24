@@ -1,13 +1,18 @@
 # main
 # commer ver x.x.x prototype ver x.x.x.x
 # x.0.0 version 0.x.0 patch ver 0.0.x sub patch ver
-# UI ver0.0.2
-# prototype V0.0.4.002
+# UI ver0.0.2.1
+# prototype V0.0.4.003
 from EEF.enc_mode import enc
 from EEF.dec_mode import dec
 from tkinter import *
 
+root=Tk()
+root.title("Laniakea")
+    
+root.mainloop()
 if __name__ == '__main__':
+
     print('-------------------------------')
     print("File encrypt Program")
     print('version prototype v0.0.3.001')
@@ -31,4 +36,3 @@ if __name__ == '__main__':
             break
         else:
             print('다시입력 press Enter key..')
-            

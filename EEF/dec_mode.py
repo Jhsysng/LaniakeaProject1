@@ -15,4 +15,3 @@ class dec():
             return
         paes = fileAES(key, None)
         paes.decrypt_file(name)
-

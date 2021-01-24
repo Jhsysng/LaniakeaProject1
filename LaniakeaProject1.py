@@ -2,9 +2,10 @@
 # commer ver x.x.x prototype ver x.x.x.x
 # x.0.0 version 0.x.0 patch ver 0.0.x sub patch ver
 # UI ver0.0.2
-# prototype V0.0.4.001
+# prototype V0.0.4.002
 from EEF.enc_mode import enc
 from EEF.dec_mode import dec
+from tkinter import *
 
 if __name__ == '__main__':
     print('-------------------------------')

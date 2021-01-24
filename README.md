@@ -3,7 +3,7 @@ this file contains versions index and explnations
 more detail is in encryptprograming.txt
 LaniakeaProject number one
 
-#version 0.0.4.001-prototype 
+#version 0.0.4.002-prototype 
 version log
 20/12/27/SUN 17:31 ver 0.0.2.001 errorcor
 21/01/01/FRI 14:42 ver 0.0.3.001 exp fuc plus

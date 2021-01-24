@@ -11,7 +11,6 @@ version log
 #encyrpt program& ui ver 0.0.2 
 
 
-version 0.0.1.001-prototype
 AES encrypt
 same dir file enc
 

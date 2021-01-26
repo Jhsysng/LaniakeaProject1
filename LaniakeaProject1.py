@@ -7,10 +7,6 @@ from EEF.enc_mode import enc
 from EEF.dec_mode import dec
 from tkinter import *
 
-root=Tk()
-root.title("Laniakea")
-    
-root.mainloop()
 if __name__ == '__main__':
 
     print('-------------------------------')
